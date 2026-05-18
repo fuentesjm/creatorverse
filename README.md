@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Demo](https://i.imgur.com/gAym3Tu.gif)
+![Demo](https://imgur.com/a/lrZf8Ct)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
