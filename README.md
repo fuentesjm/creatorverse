@@ -1,10 +1,10 @@
-# WEB103 Prework - *👉🏿 Creatorverse*
+# WEB103 Prework - * Creatorverse *
 
-Submitted by: **👉🏿 Jose Fuentes**
+Submitted by: ** Jose Fuentes **
 
-About this web app: **👉🏿 A simple full stack app dedicated to my top 5 creators that I currently watch**
+About this web app: ** A simple full stack app dedicated to my top 5 creators that I currently watch**
 
-Time spent: **👉🏿 27 ** hours
+Time spent: ** 27 ** hours
 
 ## Required Features
 
@@ -35,11 +35,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Demo](https://imgur.com/a/lrZf8Ct)
+![Demo](https://imgur.com/a/E6uVhRW)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Kap 👉🏿 GIF tool here
+GIF created with Kap -> GIF tool here
 [Kap](https://getkap.co/) for macOS
 
 ## Notes
@@ -48,7 +48,7 @@ Describe any challenges encountered while building the app or any additional con
 
 ## License
 
-Copyright [👉🏿 yyyy] [👉🏿 name of copyright owner]
+Copyright [yyyy] [name of copyright owner]
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
